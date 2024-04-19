@@ -1,0 +1,6 @@
+{
+  "watch": ["src", "models", "migrations", "config", "seeders"],
+  "ext": "js,json",
+  "ignore": ["src/**/*.test.js"],
+  "exec": "node src/index.js"
+}
